@@ -3,11 +3,11 @@ Studying IT at SENAI. This profile was made to share my coding progress and to s
 # Olá 👋
 
 <p align="center">
-  <a href="https://github.com/seu_nome_de_usuario">
-    <img src="https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuario&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <a href="https://github.com/liGia-sz">
+    <img src="https://github-readme-stats.vercel.app/api?username=liGia-sz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
   </a>
-  <a href="https://github.com/seu_nome_de_usuario">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu_nome_de_usuario&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
+  <a href="https://github.com/liGia-sz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liGia-sz&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
   </a>
 </p>
 
