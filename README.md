@@ -1,7 +1,3 @@
-## The name is LiGia
-Studying IT at SENAI. This profile was made to share my coding progress and to support my teammates develop their skills as well!! ✨ 
-# Olá 👋
-
 <p align="center">
   <a href="https://github.com/liGia-sz">
     <img src="https://github-readme-stats.vercel.app/api?username=liGia-sz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
