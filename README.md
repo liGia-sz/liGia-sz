@@ -1,24 +1,26 @@
-<p align="center">
-  <a href="https://github.com/liGia-sz">
-    <img src="https://github-readme-stats.vercel.app/api?username=liGia-sz&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/liGia-sz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=liGia-sz&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
-  </a>
-</p>
+# Olá, eu sou a Lígia! 👋
+---
+
+### Conecte-se comigo:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
+
+---
+
+### Linguagens e Ferramentas:
 
 <p align="left">
-  Sou um desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Atualmente focado em tecnologias web e backend.
-</p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  </p>
 
-### Minhas Habilidades:
+---
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,dotnet,react,nodejs,sqlserver" />
-  </a>
-</p>
+### Estatísticas do GitHub:
 
-### Conecte-se Comigo:
-- [LinkedIn](https://www.linkedin.com/in/seu_linkedin/)
-- [Portfólio](https://seu_portfolio.com)
+[![liGia-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=liGia-sz&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Linguagens Mais Usadas:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liGia-sz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
